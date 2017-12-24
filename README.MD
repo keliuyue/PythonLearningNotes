@@ -8,7 +8,7 @@ Python由Guido van Rossum于1989年底发明，第一个公开发行版发行于
 
 像Perl语言一样, Python 源代码同样遵循 GPL(GNU General Public License)协议。
 
-####本文根据《Python编程快速上手—让繁琐工作自动化》进行学习
+#### 本文根据《Python编程快速上手—让繁琐工作自动化》进行学习
 
 > 第一部分：Python 编程基础
 
